@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>Panel de Gestión - PostgreSQL</header>
+<header>Panel de Gestión </header>
 <main>
     <h2>Listado de Vendedores</h2>
     <a href="create.php" class="btn">Agregar Nuevo</a>
