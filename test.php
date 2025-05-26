@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$dbname = "NEGOCIO"; // Asegúrate de que sea el nombre exacto de tu base
+$dbname = "NEGOCIO"; 
 $usuario = "postgres";
-$contrasena = "0.000"; // tu contraseña real
+$contrasena = "0.000"; 
 
 $conexion = pg_connect("host=$host dbname=$dbname user=$usuario password=$contrasena");
 
